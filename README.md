@@ -38,3 +38,8 @@ The learning rate,gamma and the no of neurons in the dense layers can be changed
 
 
 
+
+
+https://user-images.githubusercontent.com/94230074/173899144-06714664-54da-4b1b-857d-62555509729d.mp4
+
+
